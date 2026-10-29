@@ -41,4 +41,4 @@ Precisa de suporte para grandes redes e efeitos visuais cinematográficos? O **K
 - **Árvore de Atributos com Pontos:** Menus GUI 100% customizáveis onde o jogador escolhe a própria build.
 - **Parties Ilimitadas com Bônus de XP em Grupo.**
 
-👉 **Adquira o KayoSkills Premium em nosso Discord oficial:** [discord.gg/seu-link-aqui](https://discord.gg)
+👉 **Adquira o KayoSkills Premium em nosso Discord oficial:** [discord.gg/kayoplugins](https://discord.gg/2fXxhpmCgm)
